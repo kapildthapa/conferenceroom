@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2310059a.css",
+    "main.js": "/static/js/main.44effe4d.js",
+    "static/js/787.15751c23.chunk.js": "/static/js/787.15751c23.chunk.js",
+    "static/media/ConferenceRoomWifiQR.jpg": "/static/media/ConferenceRoomWifiQR.c9bb98f0357002d75103.jpg",
+    "index.html": "/index.html",
+    "main.2310059a.css.map": "/static/css/main.2310059a.css.map",
+    "main.44effe4d.js.map": "/static/js/main.44effe4d.js.map",
+    "787.15751c23.chunk.js.map": "/static/js/787.15751c23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2310059a.css",
+    "static/js/main.44effe4d.js"
+  ]
+}
